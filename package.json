@@ -1,13 +1,13 @@
 {
-  "name": "decompress-zip",
-  "version": "0.2.0",
+  "name": "@bigfunger/decompress-zip",
+  "version": "0.2.0-stripfix",
   "description": "Extract files from a ZIP archive",
   "main": "lib/decompress-zip.js",
   "scripts": {
     "test": "grunt test"
   },
   "bin": "bin/decompress-zip",
-  "repository": "bower/decompress-zip",
+  "repository": "BigFunger/decompress-zip",
   "engines": {
     "node": ">=0.10.0"
   },
