@@ -1,6 +1,6 @@
 {
   "name": "@bigfunger/decompress-zip",
-  "version": "0.2.0-stripfix",
+  "version": "0.2.0-stripfix3",
   "description": "Extract files from a ZIP archive",
   "main": "lib/decompress-zip.js",
   "scripts": {
