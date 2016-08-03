@@ -1,6 +1,6 @@
 {
   "name": "@bigfunger/decompress-zip",
-  "version": "0.2.0-stripfix",
+  "version": "0.2.0-stripfix3",
   "description": "Extract files from a ZIP archive",
   "main": "lib/decompress-zip.js",
   "scripts": {
@@ -26,7 +26,7 @@
   "license": "MIT",
   "dependencies": {
     "binary": "^0.3.0",
-    "graceful-fs": "^3.0.0",
+    "graceful-fs": "^4.0.0",
     "mkpath": "^0.1.0",
     "nopt": "^3.0.1",
     "q": "^1.1.2",
